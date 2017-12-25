@@ -7,7 +7,7 @@
   "skpm": {
     "name": "foobar",
     "manifest": "src/manifest.json",
-    "main": "plugin.sketchplugin"
+    "main": "foobar.sketchplugin"
   },
   "scripts": {
     "build": "skpm-build",
